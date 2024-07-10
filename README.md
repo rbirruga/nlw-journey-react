@@ -1,1 +1,1 @@
-# nlw-journey
+# nlw-journey-react
